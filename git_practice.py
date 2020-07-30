@@ -1,3 +1,3 @@
 print ("hehehe")
-print("second line")
-print ("third line")
+print("second line changed")
+print ("third line changed")
